@@ -1,0 +1,26 @@
+{
+  "users": {},
+  "groups": {},
+  "sudo": [],
+  "blocked": [],
+  "forceJoin": {
+    "enabled": false,
+    "channels": [],
+    "groups": [],
+    "bypass": []
+  },
+  "settings": {
+    "maintenance": false,
+    "prefix": "/",
+    "botName": "ᴛᴇᴍᴘᴇsᴛ ʀɪᴍᴜʀᴜ",
+    "botBio": "",
+    "botAbout": "",
+    "autoRestart": false,
+    "debug": false
+  },
+  "economy": {},
+  "games": {},
+  "pets": {},
+  "pokemon": {},
+  "empire": {}
+}
